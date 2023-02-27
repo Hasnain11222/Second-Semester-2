@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Electronic>
+<category>
+<mobile>
+
+<samsung>
+
+  <model> samsung s22 ultra </model>
+  <price>  285,999.00 </price>
+  <color> white </color>
+  <memory> 512GB </memory>
+  <os> android </os>
+  <cam> 108MP </cam>
+  <screensize> 6.8 inches </screensize>
+  <description> Versions: SM-S908B, SM-S908B/DS (International); SM-S908U (USA); SM-S908U1 (USA unlocked); SM-S908W (Canada); SM-S908N (Korea); SM-S9080 (China); SM-S908E (Asia/Africa) </description>
+  <ratting> 8.4/10 </ratting>  
+
+</samsung>
+
+<apple>
+
+  <model> i phone 13 </model>
+  <price>  269,999.00 </price>
+  <color> black </color>
+  <memory> 512GB </memory>
+  <os> ISO </os>
+  <cam>  12MP </cam>
+  <screensize> 5.6 inches </screensize>
+  <description> Versions: SM-S908B, SM-S908B/DS (International); SM-S908U (USA); SM-S908U1 (USA unlocked); SM-S908W (Canada); SM-S908N (Korea); SM-S9080 (China); SM-S908E (Asia/Africa) </description>
+  <ratting> 9.4/10 </ratting>  
+
+</apple>
+
+<oppo>
+
+<model> opppo F17 PRO </model>
+  <price>  210,999.00 </price>
+  <color> GREEN </color>
+  <memory> 128GB </memory>
+  <os> android </os>
+  <cam>  50MP </cam>
+  <screensize> 6.6 inches </screensize>
+  <description> Versions: SM-S908B, SM-S908B/DS (International); SM-S908U (USA); SM-S908U1 (USA unlocked); SM-S908W (Canada); SM-S908N (Korea); SM-S9080 (China); SM-S908E (Asia/Africa) </description>
+  <ratting> 6.4/10 </ratting>  
+
+</oppo>
+
+<redmi>
+
+<model> redmi note 10 pro </model>
+  <price>  55,999.00 </price>
+  <color> blue </color>
+  <memory> 128GB </memory>
+  <os> android </os>
+  <cam>  60MP </cam>
+  <screensize> 6.7 inches </screensize>
+  <description> Versions: SM-S908B, SM-S908B/DS (International); SM-S908U (USA); SM-S908U1 (USA unlocked); SM-S908W (Canada); SM-S908N (Korea); SM-S9080 (China); SM-S908E (Asia/Africa) </description>
+  <ratting> 7.4/10 </ratting>  
+
+</redmi>
+
+<infinix>
+
+<model> redmi note 10 pro </model>
+  <price>  67,999.00 </price>
+  <color> red </color>
+  <memory> 128GB </memory>
+  <os> android </os>
+  <cam>  45MP </cam>
+  <screensize> 5.7 inches </screensize>
+  <description> Versions: SM-S908B, SM-S908B/DS (International); SM-S908U (USA); SM-S908U1 (USA unlocked); SM-S908W (Canada); SM-S908N (Korea); SM-S9080 (China); SM-S908E (Asia/Africa) </description>
+  <ratting> 6.4/10 </ratting>  
+
+</infinix>
+</mobile>
+                           <!-- section 2 -->
+
+<laptop>
+
+<hp>
+
+<model> OMEN Gaming Laptop 16-k0747nr </model>
+  <price>  109,999.00 </price>
+  <color> black </color>
+  <memory> 500GB </memory>
+  <ram> 16GB </ram>
+  <screensize> 16.1 diagonal FHD display </screensize>
+  <description> The OMEN Laptop is ready to go wherever you are. Enjoy desktop-level power with a 12th Gen Intel® Core™ processor[1] and a modern graphics card, both regulated by OMEN Tempest Cooling. The screen is equally impressive with high resolution and TUV Eyesafe Low Blue Light [2]. This gaming laptop even lets you expand with plenty of USB ports[3,4]. </description>
+  <ratting> 7.4/10 </ratting>  
+
+</hp>
+
+
+<dell>
+
+<model> Victus by  Gaming Laptop 15t-fa000 </model>
+  <price>  150,999.00 </price>
+  <color> white </color>
+  <memory> 2TB </memory>
+  <ram> 32GB </ram>
+  <screensize> 20.1 diagonal FHD display </screensize>
+  <description> The OMEN Laptop is ready to go wherever you are. Enjoy desktop-level power with a 12th Gen Intel® Core™ processor[1] and a modern graphics card, both regulated by OMEN Tempest Cooling. The screen is equally impressive with high resolution and TUV Eyesafe Low Blue Light [2]. This gaming laptop even lets you expand with plenty of USB ports[3,4]. </description>
+  <ratting> 8.4/10 </ratting> 
+
+</dell>
+
+
+<toshiba>
+
+<model> OMEN by Laptop 17t-ck100 </model>
+  <price>  150,999.00 </price>
+  <color> red </color>
+  <memory> 500GB </memory>
+  <ram> 12GB </ram>
+  <screensize> 17.1 diagonal FHD display </screensize>
+  <description> The OMEN Laptop is ready to go wherever you are. Enjoy desktop-level power with a 12th Gen Intel® Core™ processor[1] and a modern graphics card, both regulated by OMEN Tempest Cooling. The screen is equally impressive with high resolution and TUV Eyesafe Low Blue Light [2]. This gaming laptop even lets you expand with plenty of USB ports[3,4]. </description>
+  <ratting> 6.4/10 </ratting> 
+
+</toshiba>  
+
+
+<Lenovo>
+
+<model> Victus by Laptop, Windows 11 Home, AMD Ryzen™ 5, 16GB RAM, 512G </model>
+  <price>  168,999.00 </price>
+  <color> blue </color>
+  <memory> 1TB </memory>
+  <ram> 16GB </ram>
+  <screensize> 18.1 diagonal FHD display </screensize>
+  <description> The OMEN Laptop is ready to go wherever you are. Enjoy desktop-level power with a 12th Gen Intel® Core™ processor[1] and a modern graphics card, both regulated by OMEN Tempest Cooling. The screen is equally impressive with high resolution and TUV Eyesafe Low Blue Light [2]. This gaming laptop even lets you expand with plenty of USB ports[3,4]. </description>
+  <ratting> 5.4/10 </ratting> 
+
+</Lenovo>
+
+
+<Sony>
+
+<model> Victus by  Laptop, 1" Windows 11 Home, AMD  </model>
+  <price>  210,999.00 </price>
+  <color> sky blue </color>
+  <memory> 3TB </memory>
+  <ram> 42GB </ram>
+  <screensize> 20.1 diagonal FHD display </screensize>
+  <description> The OMEN Laptop is ready to go wherever you are. Enjoy desktop-level power with a 12th Gen Intel® Core™ processor[1] and a modern graphics card, both regulated by OMEN Tempest Cooling. The screen is equally impressive with high resolution and TUV Eyesafe Low Blue Light [2]. This gaming laptop even lets you expand with plenty of USB ports[3,4]. </description>
+  <ratting> 9.4/10 </ratting> 
+
+
+</Sony>
+
+</laptop>
+</category>
+</Electronic>

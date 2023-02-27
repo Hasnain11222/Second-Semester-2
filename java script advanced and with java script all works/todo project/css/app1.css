@@ -1,0 +1,75 @@
+#x{
+    color: white;
+}
+
+#xx{
+    color: white;
+    
+}
+
+#moviename{
+    width: 480px;
+    
+}
+
+#url{
+    width: 480px;
+}
+
+#ratting{
+    width:480px;
+}
+
+
+#entry-text{
+    width: 40rem;
+    margin: 2rem auto;
+    max-width: 80%;
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+.card{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+}
+
+
+
+main{
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+section {
+    display: block;
+}
+
+.boxtext{
+   font-size:1.5rem
+   ; }
+
+   #container{
+    background-color: blue;
+    text-align: center;
+    list-style: none;
+    width: 40rem;
+    max-width: 90%;
+    margin: 1rem auto;
+    padding: 0;
+    flex: 2;
+    padding: 1rem;
+   }
+
+   h1{
+    float: right;
+   }
+
+h2{
+    float: right;
+}

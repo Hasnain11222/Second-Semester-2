@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+
+<Ecommerce>
+
+         <Electronic xmlns:handfree="https//www.google.com"    xmlns:charger="https//www.google.com" xmlns:camera="https//www.google.com">
+         
+         <handfree:product>
+
+               <title>Hand free</title>
+               <description>Handsfree is a term used to describe technology that uses various features to accommodate the user's ability to communicate without using the hands. Many of these technologies are made to be used while operating a vehicle, but are often used in many other places to allow people to multi-task more effectively</description>
+               <price>1200</price>
+         
+         </handfree:product>
+
+                   
+        <charger:product>
+
+               <title>charger</title>
+               <description>A charger is the accessory you plug into your phone or laptop when the battery power is low. If you're bringing your digital camera with you on vacation, it's important to remember your charger. Devices that are powered by rechargeable or internal batteries need a charger to keep that battery working</description>
+               <price>1500</price>
+         
+         </charger:product>
+
+
+
+         <camera:product>
+
+               <title>camera</title>
+               <description>1a : a device that consists of a lightproof chamber with an aperture fitted with a lens and a shutter through which the image of an object is projected onto a surface for recording (as on a photosensitive film or an electronic sensor) or for translation into electrical impulses (as for televis</description>
+               <price>12000</price>
+         
+         </camera:product>
+
+         </Electronic>
+
+
+                                      <!-- Homeapliances  -->
+
+
+      <Homeapliances  xmlns:washingmachine="https//www.google.com" xmlns:fridge="https//www.google.com"  xmlns:microwaveoven="https//www.google.com">
+
+
+
+        <washingmachine:product>
+
+               <title>washing machine</title>
+               <description>A washing machine is a machine that washes dirty clothes. It contains a barrel into which the clothes are placed. This barrel is filled with water, and then rotated very quickly by the use of a motor to make the water remove dirt from the clothes.</description>
+               <price>20000</price>
+         
+         </washingmachine:product>
+
+
+
+        <fridge:product>
+
+               <title>fridge</title>
+               <description>A refrigerator is an open system that dispels heat from a closed space to a warmer area, usually a kitchen or another room. By dispelling the heat from this area, it decreases in temperature, allowing food and other items to remain at a cool temperature</description>
+               <price>30000</price>
+         
+         </fridge:product>
+
+
+
+
+         <microwaveoven:product>
+
+               <title>microwave oven</title>
+               <description>A microwave oven is a relatively small, boxlike oven that raises the temperature of food by subjecting it to a high-frequency electromagnetic field. The microwaves are absorbed by water, fats, sugars, and certain other molecules, whose consequent vibrations produce heat</description>
+               <price>40000</price>
+         
+         </microwaveoven:product>
+
+</Homeapliances>
+
+
+                                              <!-- men fashion -->
+
+
+
+
+<menfashion   xmlns:shirt="https//www.google.com"  xmlns:trouser="https//www.google.com"  xmlns:shoe="https//www.google.com">
+
+         <shirt:product>
+
+               <title>shirt</title>
+               <description>Printing Tshirts information. 100% Privacy Protected! Find what you are looking for Here. 99% Match on Printing Tshirts. Only relevant search results, Click here and Find</description>
+               <price>4000</price>
+         
+         </shirt:product>
+
+
+        <trouser:product>
+
+               <title>trouser</title>
+               <description>trousers, also spelled trowsers, also called pants or slacks, an outer garment covering the lower half of the body from the waist to the ankles and divided into sections to cover each leg separately</description>
+               <price>2000</price>
+         
+         </trouser:product>
+
+
+         <shoe:product>
+
+               <title>shoe</title>
+               <description>A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with form originally being tied to functio</description>
+               <price>40000</price>
+         
+         </shoe:product>
+
+</menfashion>
+
+
+                                          <!-- women fashion -->
+
+
+<womenfashion  xmlns:jeans="https//www.google.com"   xmlns:heels="https//www.google.com"   xmlns:shalwarkameez="https//www.google.com">
+
+
+         <jeans:product>
+
+               <title>jeans</title>
+               <description>Jeans are a type of pants traditionally made from denim (a kind of cotton fabric). The word most commonly refers to denim blue jeans. Jeans can be other colors, but they're most commonly blue. The defining feature of most jeans is that they're made out of some kind of denim or denim-like </description>
+               <price>200</price>
+         
+         </jeans:product>
+
+
+
+         <heels:product>
+
+               <title>heels</title>
+               <description>a solid, raised base or support of leather, wood, rubber, etc., attached to the sole of a shoe or boot under the back part of the foot. heels, women's low-cut shoes with thin or thick heels of medium or high height. something resembling the back part of the human foot in position, shape, etc.: a heel of bre</description>
+               <price>600</price>
+         
+         </heels:product>
+
+
+
+
+         <shalwarkameez:product>
+
+               <title>shalwar kameez </title>
+               <description>Description. The shalwar are loose pajama-like trousers. The legs are wide at the top, and narrow at the ankle. The kameez is a long shirt or tunic, often seen with a Western-style collar; however, for female apparel, the term is now loosely applied to collarless or mandarin-collared </description>
+               <price>6000</price>
+         
+         </shalwarkameez:product>
+
+</womenfashion>
+
+
+                                     <!-- sport outdoor -->
+
+
+
+
+<sportoutdoor  xmlns:football="https//www.google.com"   xmlns:bikecycle="https//www.google.com"   xmlns:basketball="https//www.google.com">
+
+
+         <football:product>
+
+               <title>football</title>
+               <description>Football, also called association football or soccer, is a game involving two teams of 11 players who try to maneuver the ball into the other team's goal without using their hands or arms. The team that scores more goals wins. Football is the world's most popular ball game in numbers of participants and specta</description>
+               <price>9000</price>
+         
+         </football:product>
+
+
+
+
+         <bikecycle:product>
+
+               <title>bike cycle </title>
+               <description>A bicycle, also called a pedal cycle, bike or cycle, is a human-powered or motor-powered assisted, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the </description>
+               <price>10000</price>
+         
+         </bikecycle:product>
+
+
+         <basketball:product>
+
+               <title>basketball</title>
+               <description>What is basketball? Basketball is a game played between two teams of five players each on a rectangular court, usually indoors. Each team tries to score by tossing the ball through the opponent's goal, an elevated horizontal hoop and net call</description>
+               <price>8000</price>
+         
+         </basketball:product>
+
+</sportoutdoor>
+</Ecommerce>

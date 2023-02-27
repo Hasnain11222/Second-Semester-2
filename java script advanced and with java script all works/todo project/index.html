@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/app1.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+    
+    <nav class="navbar bg-primary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#" id="x">
+            <img src="pngwing.com.png"  alt="" width="30" height="24" class="d-inline-block align-text-top 
+    ">
+            Favorite Movies
+          </a>
+            <!-- Button trigger modal -->
+<button type="button" id="xx" class=" bg-warning bg-gradient" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Add movies
+  </button>
+
+        </div>
+      </nav>
+
+
+    
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body"></div>
+<div class="container">
+    <label for=""><b>Movie Title</b></label>
+    <br>
+<input type="text" placeholder="Enter movie" id="moviename"  >
+<br>
+
+<label for=""><b>Image URL</b></label>
+    <br>
+    
+<input type="text" placeholder="Enter url" id="url">
+<br>
+
+<label for=""><b>Your Rating</b></label>
+    <br>
+<input type="number" placeholder="Enter Ratting" id="ratting">
+ 
+</div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button onclick="addnewmovie()" type="button" class="btn btn-primary" >Add</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<main>
+  <section id="entry-text" class="card">
+    <p class="boxtext">Your personal movie database!</p>
+  </section>
+</main>
+
+<div id="container">
+
+  
+</div>
+
+
+
+</body>
+<script src="js/bootstrap.js"></script>
+<script src="js/modal.js"></script>
+<script src="js/app.js"></script>
+</html>

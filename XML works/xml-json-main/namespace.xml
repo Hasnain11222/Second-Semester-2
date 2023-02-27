@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<mobile xmlns:firstphone="https://code.jquery.com/jquery-3.6.0.js"  xmlns:secondphone="https://code.jquery.com/jquery-3.6.0.js"  xmlns:thirdphone="https://code.jquery.com/jquery-3.6.0.js"> 
+
+<firstphone:oppo>
+<title>f21</title>
+</firstphone:oppo>
+
+
+
+<secondphone:oppo>
+<title>f22</title>
+</secondphone:oppo>
+
+
+<thirdphone:oppo>
+<title>f23</title>
+</thirdphone:oppo>
+
+
+<oppo>
+<title>f24</title>
+</oppo>
+
+
+
+<oppo>
+<title>f25</title>
+</oppo>
+
+
+</mobile>

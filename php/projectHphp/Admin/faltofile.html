@@ -1,0 +1,51 @@
+<table id="datatablesSimple" >
+    <thead>
+    <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Expertise</th>
+            <th>Experience</th>
+            <th>Picture</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Expertise</th>
+            <th>Experience</th>
+            <th>Picture</th>
+
+        </tr>
+    </tfoot>
+    <tbody>
+
+    <?php
+    include_once("conn.php");
+            $query = "SELECT * FROM `teachers`";
+            $result = mysqli_query($conn,$query);  
+            if(mysqli_num_rows($result)){
+                    while($row = mysqli_fetch_array($result)){
+
+    ?>
+
+        <tr>
+            <td><?php echo $row[0];?></td>
+            <td><?php echo $row[1];?></td>
+            <td><?php echo $row[2];?></td>
+            <td><?php echo $row[3];?></td>
+            <td><img src="./course/<?php echo $row[4];?>" width="200px";></td>
+
+        </tr>
+        <?php
+
+        }
+        }                                     
+        ?>
+
+    </tbody>
+
+
+
+
+</table>
